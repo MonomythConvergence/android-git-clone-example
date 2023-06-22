@@ -1,6 +1,6 @@
 # Тестовый репозиторий для практики с Pull Request в GitHub
 
-Этот репозиторий - MonomythConvergence
+Этот репозиторий - MonomythConvergencezasa
 
 ## Как этим пользоваться?
 
